@@ -37,7 +37,8 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 <h1>🚀 Here's The Techs I Used To Work With!</h1>
 </div>
 
-
+<div align="center">
+  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -47,6 +48,9 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -54,6 +58,7 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white)
 
+</div>
 ---
 
 <div align="center">
