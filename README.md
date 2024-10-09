@@ -1,9 +1,9 @@
-# 👋 Hey ,TurT781 here !
+# 🔥 Hey ,TurT781 here ! 🔥
 
-## 📊My GitHub stats
+## 📊 My GitHub stats 
 
-![Les stats GitHub de TurT781](https://github-readme-stats.vercel.app/api?username=TurT781&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TurT781&layout=compact&theme=radical)
+![TurT781's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TurT781&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TurT781&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=TurT781&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
@@ -12,7 +12,8 @@ I am a passionate developer specializing in modern web technologies. Currently, 
 
 ---
 
-## 🚀 Here's the techs I used to work whith !
+## 🚀 Here's the techs I used to work with!
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
