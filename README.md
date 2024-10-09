@@ -10,9 +10,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=TurT781&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats) ![TurT781's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TurT781&show_icons=true&theme=radical)
 
 <div align="center">
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TurT781&layout=compact&theme=radical)
-
 </div>
 
 
@@ -64,14 +62,17 @@ My latest project was to build a webapp for a pharmacy on symfony.
 
 
 ---
+
 <div align="center">
 <h1> 🌱 What Am I learning Nowdays : </h1>
 </div>
+
 - Amélioration de l'intégration API entre **Symfony** et **React**
 - Utilisation de **Docker** pour la gestion des environnements de développement
 - Optimisation de l'architecture RESTful
 
 ---
+
 <div align="center">
 <h1>📫 Contact Me !</h1>
 </div>
