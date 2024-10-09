@@ -63,12 +63,11 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 
 
 ### 📌 [Job Board API](#)
-Une API personnalisée pour gérer les offres d'emploi, construite avec Symfony et React.
-We're building our own API to handle job offers, made on Symfony and React.
+We're building our own **API** to handle job offers, made on **Symfony** and **React**.
 
 ### 📌 [Symfony / Fullstack App](#)
-Mon dernier projet full-stack, intégrant une communication API fluide entre le backend et le frontend.
-My latest project was to build a webapp for a pharmacy on symfony.
+
+My **latest project** was to build a webapp for a pharmacy on **Symfony**.
 
 
 ---
