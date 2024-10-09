@@ -27,7 +27,7 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 
 ---
 <div align="center">
-<h1>🚀 Here's the techs I used to work with!</h1>
+<h1>🚀 Here's The Techs I Used To Work With!</h1>
 </div>
 
 
@@ -70,9 +70,9 @@ My latest project was to build a webapp for a pharmacy on symfony.
 <h1> 🌱 What Am I learning Nowdays : </h1>
 </div>
 
-- Amélioration de l'intégration API entre **Symfony** et **React**
-- Utilisation de **Docker** pour la gestion des environnements de développement
-- Optimisation de l'architecture RESTful
+- **Improvement of API integration** between **Symfony** and **React**
+- **Utilization of Docker** for managing development environments
+- **Optimization of RESTful architecture**
 
 ---
 
