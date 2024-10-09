@@ -1,9 +1,13 @@
 <div align="center">
+  
 <h1> 🔥 Hey ,TurT781 here ! 🔥
+  
 </div>
 
 <div align="center">
+  
 <h1> 📊 My GitHub Stats </h1>
+
 </div>
 
 <div align="center">
@@ -34,7 +38,9 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 
 ---
 <div align="center">
+  
 <h1>🚀 Here's The Techs I Used To Work With!</h1>
+
 </div>
 
 <div align="center">
@@ -59,11 +65,15 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 ![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
+
 ---
 
 <div align="center">
-<h1>🛠 I'm Working on :</h1>
+  
+<h1>🛠 I'm Working on : </h1>
+
 </div>
+
 
 
 ### 📌 [Job Board API](#)
@@ -96,4 +106,4 @@ My **latest project** was to build a webapp for a pharmacy on **Symfony**.
 
 ---
 
-# 👨‍💻 **Let's Code and Build Awesome Things Together!**
+## 👨‍💻 **Let's Code and Build Awesome Things Together!**
