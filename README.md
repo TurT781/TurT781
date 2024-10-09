@@ -1,10 +1,8 @@
+<div align="center">
 # 🔥 Hey ,TurT781 here ! 🔥
 
-<div align="center">
 
 ## 📊 My GitHub stats 
-
-
 </div>
 
 
