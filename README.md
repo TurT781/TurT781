@@ -4,7 +4,7 @@
 
 
 <div align="center">
-## 📊 My GitHub stats 
+<h1> 📊 My GitHub stats </h1>
 </div>
 
 
