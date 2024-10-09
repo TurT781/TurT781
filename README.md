@@ -18,15 +18,17 @@
 
 
 ---
-
-I am a passionate developer specializing in modern web technologies. Currently, I am focused on building a job board application with a custom API using Symfony for the backend and React for the frontend.
-### ✨ About Me
+<div align="center">
+<h1> ✨ About Me </h1>
+</div>
 
 I am a **passionate developer** specializing in **modern web technologies**. Currently, I am focused on building a **job board application** with a **custom API** using **Symfony** for the backend and **React** for the frontend.
 
 ---
+<div align="center">
+<h1>🚀 Here's the techs I used to work with!</h1>
+</div>
 
-## 🚀 Here's the techs I used to work with!
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -45,7 +47,10 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 
 ---
 
-## 🛠 I'm Working on :
+<div align="center">
+<h1>🛠 I'm Working on :</h1>
+</div>
+
 
 ### 📌 [Job Board API](#)
 Une API personnalisée pour gérer les offres d'emploi, construite avec Symfony et React.
@@ -57,19 +62,22 @@ My latest project was to build a webapp for a pharmacy on symfony.
 
 
 ---
-
-## 🌱 What Am I learning Nowdays : 
+<div align="center">
+<h1> 🌱 What Am I learning Nowdays : </h1>
+</div>
 - Amélioration de l'intégration API entre **Symfony** et **React**
 - Utilisation de **Docker** pour la gestion des environnements de développement
 - Optimisation de l'architecture RESTful
 
 ---
+<div align="center">
+<h1>📫 Contact Me !</h1>
+</div>
 
-## 📫 Contact Me !
 - 📧 Email : [WriteMe](mailto:flavien.patriarca@epitech.eu)
 - 💼 LinkedIn : [Flavien Patriarca](https://www.linkedin.com/in/flavien-patriarca-633010255/)
 - 🌐 Portfolio : [MyPortoflio.](https://turt781.github.io/MyPortfolio/index.html)
 
 ---
 
-👨‍💻 **Let's Code and Build Awesome Things Together!**
+# 👨‍💻 **Let's Code and Build Awesome Things Together!**
