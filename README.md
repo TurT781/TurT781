@@ -7,7 +7,8 @@
 </div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TurT781&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats) ![TurT781's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TurT781&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TurT781&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats) 
+![TurT781's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TurT781&show_icons=true&theme=radical)
 
 <div align="center">
 
