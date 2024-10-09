@@ -20,6 +20,9 @@
 ---
 
 I am a passionate developer specializing in modern web technologies. Currently, I am focused on building a job board application with a custom API using Symfony for the backend and React for the frontend.
+### ✨ About Me
+
+I am a **passionate developer** specializing in **modern web technologies**. Currently, I am focused on building a **job board application** with a **custom API** using **Symfony** for the backend and **React** for the frontend.
 
 ---
 
