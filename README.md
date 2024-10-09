@@ -6,10 +6,16 @@
 <h1> 📊 My GitHub Stats </h1>
 </div>
 
-
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=TurT781&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats) 
+
+</div>
+<div align="center">
+  
 ![TurT781's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TurT781&show_icons=true&theme=radical)
 
+</div>
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TurT781&layout=compact&theme=radical)
