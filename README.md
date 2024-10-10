@@ -6,7 +6,7 @@
 
 <div align="center">
   
-<h1 color="red"> 📊 My GitHub Stats  📊 </h1>
+<h1> 📊 My GitHub Stats  📊 </h1>
 
 </div>
 
@@ -31,7 +31,7 @@
 
 ---
 <div align="center">
-<h1> ✨ About Me </h1>
+<h1> ✨ About Me ✨ </h1>
 </div>
 
 I am a **passionate developer** specializing in **modern web technologies**. Currently, I am focused on building a **job board application** with a **custom API** using **Symfony** for the backend and **React** for the frontend.
@@ -39,7 +39,7 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 ---
 <div align="center">
   
-<h1>🚀 Here's The Techs I Used To Work With </h1>
+<h1>🚀 Here's The Techs I Used To Work With 🚀</h1>
 
 </div>
 
@@ -70,7 +70,7 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 
 <div align="center">
   
-<h1>🛠 I'm Working on </h1>
+<h1>🛠 I'm Working on 🛠 </h1>
 
 </div>
 
@@ -87,7 +87,7 @@ My **latest project** was to build a webapp for a pharmacy on **Symfony**.
 ---
 
 <div align="center">
-<h1> 🌱 What Am I learning Nowdays  </h1>
+<h1> 🌱 What Am I learning Nowdays 🌱  </h1>
 </div>
 
 - **Improvement of API integration** between **Symfony** and **React**
