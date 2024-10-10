@@ -6,7 +6,7 @@
 
 <div align="center">
   
-<h1> 📊 My GitHub Stats  </h1>
+<h1 color="red"> 📊 My GitHub Stats  📊 </h1>
 
 </div>
 
