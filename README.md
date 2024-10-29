@@ -106,6 +106,7 @@ My **latest project** was to build a webapp for a pharmacy on **Symfony**.
 - **Improvement of API integration** between **Symfony** and **React**
 - **Utilization of Docker** for managing development environments
 - **Optimization of RESTful architecture**
+- **Learning how Java's works by making projects**
 
 ---
 
