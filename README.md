@@ -90,7 +90,7 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 
 
 ### 📌 [Job Board API](#)
-We're building our own **API** to handle job offers, made on **Symfony** and **React**.
+Building my own **API** to handle job offers, made on **Symfony** and **React**.
 
 ### 📌 [Symfony / Fullstack App](#)
 
