@@ -89,8 +89,8 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 
 
 
-### 📌 [Job Board API](#)
-Building my own **API** to handle job offers, made on **Symfony** and **React**.
+### 📌 [App Game 2D](#)
+Building my own **Game**, made on **JavaFx**.
 
 ### 📌 [Symfony / Fullstack App](#)
 
