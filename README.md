@@ -103,10 +103,10 @@ My **latest project** was to build a webapp for a pharmacy on **Symfony**.
 <h1> 🌱 What Am I learning Nowdays 🌱  </h1>
 </div>
 
-- **Improvement of API integration** between **Symfony** and **React**
 - **Utilization of Docker** for managing development environments
 - **Optimization of RESTful architecture**
 - **Learning how Java's works by making projects**
+- **Keep learning how React works**
 
 ---
 
