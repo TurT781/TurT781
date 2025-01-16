@@ -89,13 +89,9 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 
 
 
-### 📌 [App Game 2D](#)
-Building my own **Game**, made on **JavaFx**.
-
-### 📌 [Symfony / Fullstack App](#)
-
-My **latest project** was to build a webapp for a pharmacy on **Symfony**.
-
+### 📌 [IRC](#)
+Building my own **IRC**, made on **group of 3**.
+Using **React** and **Node**.
 
 ---
 
