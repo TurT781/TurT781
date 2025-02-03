@@ -64,6 +64,7 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 <div align="center">
 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=icons8:database&logoColor=white
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white)
