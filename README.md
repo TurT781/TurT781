@@ -34,7 +34,7 @@
 <h1> ✨ About Me ✨ </h1>
 </div>
 
-I am a **passionate developer** specializing in **modern web technologies**. Currently, I am focused on building a **job board application** with a **custom API** using **Symfony** for the backend and **React** for the frontend.
+I am a **passionate developer** specializing in **modern web technologies**. Currently, I am studying **Docker** and **Web sockets**.
 
 ---
 <div align="center">
