@@ -34,7 +34,8 @@
 <h1> ✨ About Me ✨ </h1>
 </div>
 
-I am a **passionate developer** specializing in **modern web technologies**. Currently, I am studying **Docker** and **Web sockets**.
+I am a **passionate developer** specializing in **modern web technologies**. Currently, I am studying **DevOps**.
+I am an apprentice at Cristal-Decions and a student at Epitech.
 
 ---
 <div align="center">
@@ -90,9 +91,9 @@ I am a **passionate developer** specializing in **modern web technologies**. Cur
 
 
 
-### 📌 [IRC](#)
-Building my own **IRC**, made on **group of 3**.
-Using **React** and **Node**.
+### 📌 [DevOps](#)
+Building my own **Agent**, made on my **own**.
+Using **Jenkins**.
 
 ---
 
@@ -101,6 +102,7 @@ Using **React** and **Node**.
 </div>
 
 - **Utilization of Docker** for managing development environments
+- **Integrate Jenkins** to my projects
 - **Optimization of RESTful architecture**
 - **Learning how Java's works by making projects**
 - **Keep learning how React works**
@@ -117,4 +119,4 @@ Using **React** and **Node**.
 
 ---
 
-## 👨‍💻 **Let's Code and Build Awesome Things Together!**
+## 👨‍💻 **Time for me to get back to my business!**
