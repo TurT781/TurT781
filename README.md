@@ -110,7 +110,7 @@ With **Kubernetes**
 - **Integrate Jenkins** to my projects
 - **Optimization of RESTful architecture**
 - **Learning how Java's works by making projects**
-- **Keep learning how React works**
+- **Cybersecurity**
 
 ---
 
