@@ -93,7 +93,12 @@ I am an apprentice at Cristal-Decions and a student at Epitech.
 
 ### 📌 [DevOps](#)
 Building my own **Agent**, made on my **own**.
-Using **Jenkins**.
+<br>
+With **Jenkins**
+<br>
+or
+<br>
+With **Kubernetes**
 
 ---
 
