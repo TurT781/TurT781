@@ -84,37 +84,6 @@ I am an apprentice at Cristal-Decions and a student at Epitech.
 ---
 
 <div align="center">
-  
-<h1>🛠 I'm Working on 🛠 </h1>
-
-</div>
-
-
-
-### 📌 [DevOps](#)
-Building my own **Agent**, made on my **own**.
-<br>
-With **Jenkins**
-<br>
-or
-<br>
-With **Kubernetes**
-
----
-
-<div align="center">
-<h1> 🌱 What Am I learning Nowdays 🌱  </h1>
-</div>
-
-- **Utilization of Docker** for managing development environments
-- **Integrate Jenkins** to my projects
-- **Optimization of RESTful architecture**
-- **Learning how Java's works by making projects**
-- **Cybersecurity**
-
----
-
-<div align="center">
 <h1>📫 Contact Me !</h1>
 </div>
 
